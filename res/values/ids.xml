@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="title_group" />
+    <item type="id" name="latest_recommend" />
+    <item type="id" name="tv_show" />
+    <item type="id" name="video_type" />
+    <item type="id" name="play_collect" />
+    <item type="id" name="application" />
+    <item type="id" name="settings" />
+    <item type="id" name="main_search" />
+    <item type="id" name="main_layout_pager" />
+    <item type="id" name="latest_layout" />
+    <item type="id" name="latest_recommend_fl_0" />
+    <item type="id" name="latest_recommend_bg_0" />
+    <item type="id" name="latest_recommend_bg_1" />
+    <item type="id" name="latest_recommend_bg_2" />
+    <item type="id" name="latest_recommend_bg_3" />
+    <item type="id" name="latest_recommend_bg_4" />
+    <item type="id" name="latest_recommend_bg_5" />
+    <item type="id" name="latest_recommend_bg_6" />
+    <item type="id" name="latest_recommend_bg_7" />
+    <item type="id" name="latest_recommend_bg_8" />
+    <item type="id" name="latest_recommend_bg_9" />
+    <item type="id" name="latest_recommend_poster_0" />
+    <item type="id" name="latest_recommend_text_0" />
+    <item type="id" name="latest_recommend_fl_1" />
+    <item type="id" name="latest_recommend_poster_1" />
+    <item type="id" name="latest_recommend_text_1" />
+    <item type="id" name="latest_recommend_fl_2" />
+    <item type="id" name="latest_recommend_poster_2" />
+    <item type="id" name="latest_recommend_text_2" />
+    <item type="id" name="latest_recommend_fl_3" />
+    <item type="id" name="latest_recommend_poster_3" />
+    <item type="id" name="latest_recommend_text_3" />
+    <item type="id" name="latest_recommend_fl_4" />
+    <item type="id" name="latest_recommend_poster_4" />
+    <item type="id" name="latest_recommend_text_4" />
+    <item type="id" name="latest_recommend_fl_5" />
+    <item type="id" name="latest_recommend_poster_5" />
+    <item type="id" name="latest_recommend_text_5" />
+    <item type="id" name="latest_recommend_fl_6" />
+    <item type="id" name="latest_recommend_poster_6" />
+    <item type="id" name="latest_recommend_text_6" />
+    <item type="id" name="latest_recommend_fl_7" />
+    <item type="id" name="latest_recommend_poster_7" />
+    <item type="id" name="latest_recommend_text_7" />
+    <item type="id" name="latest_recommend_fl_8" />
+    <item type="id" name="latest_recommend_poster_8" />
+    <item type="id" name="latest_recommend_text_8" />
+    <item type="id" name="latest_recommend_fl_9" />
+    <item type="id" name="latest_recommend_poster_9" />
+    <item type="id" name="latest_recommend_text_9" />
+    <item type="id" name="hot_reflected_img_0" />
+    <item type="id" name="hot_reflected_img_1" />
+    <item type="id" name="hot_reflected_img_2" />
+    <item type="id" name="hot_reflected_img_3" />
+    <item type="id" name="hot_reflected_img_4" />
+    <item type="id" name="hot_reflected_img_5" />
+    <item type="id" name="video_type_layout" />
+    <item type="id" name="video_type_refimg_0" />
+    <item type="id" name="video_type_refimg_1" />
+    <item type="id" name="video_type_refimg_2" />
+    <item type="id" name="video_type_refimg_3" />
+    <item type="id" name="video_type_refimg_4" />
+    <item type="id" name="video_type_bg_0" />
+    <item type="id" name="video_type_bg_1" />
+    <item type="id" name="video_type_bg_2" />
+    <item type="id" name="video_type_bg_3" />
+    <item type="id" name="video_type_bg_4" />
+    <item type="id" name="video_type_bg_5" />
+    <item type="id" name="video_type_bg_6" />
+    <item type="id" name="video_type_fl_0" />
+    <item type="id" name="video_type_post_0" />
+    <item type="id" name="video_type_text_0" />
+    <item type="id" name="video_type_fl_1" />
+    <item type="id" name="video_type_post_1" />
+    <item type="id" name="video_type_text_1" />
+    <item type="id" name="video_type_fl_2" />
+    <item type="id" name="video_type_post_2" />
+    <item type="id" name="video_type_text_2" />
+    <item type="id" name="video_type_fl_3" />
+    <item type="id" name="video_type_fl_4" />
+    <item type="id" name="video_type_text_4" />
+    <item type="id" name="video_type_fl_5" />
+    <item type="id" name="video_type_text_5" />
+    <item type="id" name="video_type_fl_6" />
+    <item type="id" name="video_type_text_6" />
+    <item type="id" name="video_type_log_0" />
+    <item type="id" name="video_type_log_1" />
+    <item type="id" name="video_type_log_2" />
+    <item type="id" name="video_type_log_3" />
+    <item type="id" name="video_type_log_4" />
+    <item type="id" name="video_type_log_5" />
+    <item type="id" name="video_type_refimg_5" />
+    <item type="id" name="video_type_log_6" />
+    <item type="id" name="video_type_fl_8" />
+    <item type="id" name="video_type_post_3" />
+    <item type="id" name="video_type_post_4" />
+    <item type="id" name="video_type_post_6" />
+    <item type="id" name="video_type_post_8" />
+    <item type="id" name="video_type_log_8" />
+    <item type="id" name="video_type_bg_8" />
+    <item type="id" name="tv_show_tv" />
+    <item type="id" name="tv_show_layout" />
+    <item type="id" name="tv_show_video" />
+    <item type="id" name="tv_show_reflected_img" />
+    <item type="id" name="tv_show_fl_0" />
+    <item type="id" name="tv_show_fl_1" />
+    <item type="id" name="tv_show_fl_2" />
+    <item type="id" name="tv_show_fl_3" />
+    <item type="id" name="tv_show_bg_0" />
+    <item type="id" name="tv_show_bg_1" />
+    <item type="id" name="tv_show_bg_2" />
+    <item type="id" name="tv_show_bg_3" />
+    <item type="id" name="tv_show_post_0" />
+    <item type="id" name="tv_show_post_1" />
+    <item type="id" name="tv_show_post_2" />
+    <item type="id" name="tv_show_post_3" />
+    <item type="id" name="tv_show_log_0" />
+    <item type="id" name="tv_show_log_1" />
+    <item type="id" name="tv_show_log_2" />
+    <item type="id" name="tv_show_log_3" />
+    <item type="id" name="tv_show_poster" />
+    <item type="id" name="tv_show_backgroud" />
+    <item type="id" name="play_colection_layout" />
+    <item type="id" name="play_collect_tv_fl" />
+    <item type="id" name="play_collect_reflected_img" />
+    <item type="id" name="play_collect_fl_0" />
+    <item type="id" name="play_collect_fl_1" />
+    <item type="id" name="play_collect_fl_2" />
+    <item type="id" name="play_collect_bg_0" />
+    <item type="id" name="play_collect_bg_1" />
+    <item type="id" name="play_collect_bg_2" />
+    <item type="id" name="play_collect_post_0" />
+    <item type="id" name="play_collect_post_1" />
+    <item type="id" name="play_collect_post_2" />
+    <item type="id" name="play_collect_info_0" />
+    <item type="id" name="play_collect_info_1" />
+    <item type="id" name="play_collect_info_2" />
+    <item type="id" name="settings_layout" />
+    <item type="id" name="user_set_step" />
+    <item type="id" name="user_set_stepname" />
+    <item type="id" name="user_info" />
+    <item type="id" name="user_tvmg" />
+    <item type="id" name="user_share" />
+    <item type="id" name="user_inturduce" />
+    <item type="id" name="user_exit" />
+    <item type="id" name="user_set_main_step0_tv" />
+    <item type="id" name="user_set_main_step0" />
+    <item type="id" name="user_set_info_personal" />
+    <item type="id" name="user_set_info_datum" />
+    <item type="id" name="user_set_info_pwd" />
+    <item type="id" name="user_set_info_person_id" />
+    <item type="id" name="user_set_info_person_email" />
+    <item type="id" name="user_set_info_person_nickname" />
+    <item type="id" name="user_set_info_person_qq" />
+    <item type="id" name="user_set_info_person_point" />
+    <item type="id" name="user_set_info_person_reg" />
+    <item type="id" name="user_set_info_person_login" />
+    <item type="id" name="user_set_info_person_this" />
+    <item type="id" name="user_set_info_person_last" />
+    <item type="id" name="user_set_info_datum_sex" />
+    <item type="id" name="user_set_info_datum_qq" />
+    <item type="id" name="user_set_info_datum_name" />
+    <item type="id" name="user_set_info_datum_add" />
+    <item type="id" name="user_set_info_datum_card" />
+    <item type="id" name="user_set_info_datum_phone" />
+    <item type="id" name="user_set_info_datum_zip" />
+    <item type="id" name="user_set_info_pwd_last" />
+    <item type="id" name="user_set_info_pwd_new1" />
+    <item type="id" name="user_set_info_pwd_new2" />
+    <item type="id" name="user_set_step1_info" />
+    <item type="id" name="user_set_step2_info_person" />
+    <item type="id" name="user_set_step2_info_datum" />
+    <item type="id" name="user_set_step2_info_pwd" />
+    <item type="id" name="user_set_main_back" />
+    <item type="id" name="user_set_main_back_tv" />
+    <item type="id" name="user_set_main_ok" />
+    <item type="id" name="user_set_main_ok_tv" />
+    <item type="id" name="user_set_main_menu" />
+    <item type="id" name="user_set_main_menu_tv" />
+    <item type="id" name="input_number_et" />
+    <item type="id" name="input_dialog_title" />
+    <item type="id" name="live_control_main_menu_txt" />
+    <item type="id" name="live_control_main_ok_txt" />
+    <item type="id" name="live_control_main_nextchannel_txt" />
+    <item type="id" name="live_control_main_prevtchannel_txt" />
+    <item type="id" name="live_control_main_channelnum_txt" />
+    <item type="id" name="live_control_main_channelname_txt" />
+    <item type="id" name="live_control_main_channelepg1_txt" />
+    <item type="id" name="live_control_main_channelepg2_txt" />
+    <item type="id" name="live_control_main_channelsource_txt" />
+    <item type="id" name="live_control_main_channelprogress_prgbar" />
+    <item type="id" name="live_control_main_quality_txt" />
+    <item type="id" name="live_control_new_channle_name" />
+    <item type="id" name="live_control_new_epg_current" />
+    <item type="id" name="live_control_new_systime" />
+    <item type="id" name="live_control_new_channle_index" />
+    <item type="id" name="live_control_new_channle_source" />
+    <item type="id" name="live_control_new_epg_next" />
+    <item type="id" name="live_control_new_cwtime" />
+    <item type="id" name="live_control_new_speed" />
+    <item type="id" name="live_control_new_bufgif" />
+    <item type="id" name="live_control_new_bufimg" />
+    <item type="id" name="live_control_main_realtimespeed_txt" />
+    <item type="id" name="live_control_main_bufgif_img" />
+    <item type="id" name="live_control_main_channelepg_txt" />
+    <item type="id" name="live_channellist_item_num_txt" />
+    <item type="id" name="live_channellist_item_name_txt" />
+    <item type="id" name="live_channellist_item_sharp_img" />
+    <item type="id" name="live_channellist_item_fav_img" />
+    <item type="id" name="live_channellist_layout_empty_txt" />
+    <item type="id" name="live_channellist_layout_channel_list" />
+    <item type="id" name="live_channellist_layout_channeltype_txt" />
+    <item type="id" name="set_net_type_iv" />
+    <item type="id" name="net_adv_wifi_on_off" />
+    <item type="id" name="net_adv_auto_ip" />
+    <item type="id" name="net_adv_user_ip" />
+    <item type="id" name="input_ipAdd_et" />
+    <item type="id" name="input_subnet_et" />
+    <item type="id" name="input_gateway_et" />
+    <item type="id" name="input_dns_et" />
+    <item type="id" name="input_ipAdd" />
+    <item type="id" name="input_subnet" />
+    <item type="id" name="input_gateway" />
+    <item type="id" name="input_dns" />
+    <item type="id" name="net_earth_status" />
+    <item type="id" name="net_earth_auto_ip" />
+    <item type="id" name="net_earth_user_ip" />
+    <item type="id" name="net_adv_wifi_add" />
+    <item type="id" name="vod_ctrtop_layout_source_horlist" />
+    <item type="id" name="vod_ctrtop_layout_name_txt" />
+    <item type="id" name="vod_player_real_speed" />
+    <item type="id" name="vod_player_speed_danwei" />
+    <item type="id" name="vod_player_speed_wenzi" />
+    <item type="id" name="offline_item_post" />
+    <item type="id" name="offline_item_fileName" />
+    <item type="id" name="history_list" />
+    <item type="id" name="history_list_item_tvTime" />
+    <item type="id" name="history_list_item_grid" />
+    <item type="id" name="subject_pageBG" />
+    <item type="id" name="subject_pageBG_hs" />
+    <item type="id" name="subject_container" />
+    <item type="id" name="subject_container_hs" />
+    <item type="id" name="subject_frame" />
+    <item type="id" name="subject_poster" />
+    <item type="id" name="subject_name" />
+    <item type="id" name="subject_ref" />
+    <item type="id" name="news_tv" />
+    <item type="id" name="news_video" />
+    <item type="id" name="news_list" />
+    <item type="id" name="news_text" />
+    <item type="id" name="news_img" />
+    <item type="id" name="news_current_play" />
+    <item type="id" name="player_menu_source" />
+    <item type="id" name="player_menu_source_left" />
+    <item type="id" name="player_menu_source_right" />
+    <item type="id" name="player_menu_voice" />
+    <item type="id" name="player_menu_voice_left" />
+    <item type="id" name="player_menu_voice_right" />
+    <item type="id" name="player_menu_sclar" />
+    <item type="id" name="player_menu_sclar_left" />
+    <item type="id" name="player_menu_sclar_right" />
+    <item type="id" name="player_menu_list" />
+    <item type="id" name="player_menu_fav" />
+    <item type="id" name="player_menu_fav_text" />
+    <item type="id" name="player_menu_source_tv" />
+    <item type="id" name="player_menu_voice_tv" />
+    <item type="id" name="player_menu_sclar_tv" />
+    <item type="id" name="player_menu_chooseSet" />
+    <item type="id" name="player_menu_sharp" />
+    <item type="id" name="player_menu_sharp_left" />
+    <item type="id" name="player_menu_sharp_right" />
+    <item type="id" name="player_menu_sharp_tv" />
+    <item type="id" name="player_menu_srt" />
+    <item type="id" name="player_menu_srt_left" />
+    <item type="id" name="player_menu_srt_right" />
+    <item type="id" name="player_menu_srt_tv" />
+    <item type="id" name="player_menu_srt_setting" />
+    <item type="id" name="player_menu_srt_textSet" />
+    <item type="id" name="srt_set_pop_list" />
+    <item type="id" name="srt_set_pop_size" />
+    <item type="id" name="srt_set_pop_color" />
+    <item type="id" name="srt_set_pop_location" />
+    <item type="id" name="srt_set_pop_settingTime" />
+    <item type="id" name="search_srt_search_content" />
+    <item type="id" name="search_srt_search_button" />
+    <item type="id" name="search_srt_search_liseview" />
+    <item type="id" name="srtName" />
+    <item type="id" name="set_server_fl" />
+    <item type="id" name="set_speed_fl" />
+    <item type="id" name="set_vod_fl" />
+    <item type="id" name="set_weather_fl" />
+    <item type="id" name="set_user_fl" />
+    <item type="id" name="set_clear_fl" />
+    <item type="id" name="set_other_fl" />
+    <item type="id" name="set_about_fl" />
+    <item type="id" name="set_server_bg" />
+    <item type="id" name="set_speed_bg" />
+    <item type="id" name="set_vod_bg" />
+    <item type="id" name="set_weather_bg" />
+    <item type="id" name="set_user_bg" />
+    <item type="id" name="set_clear_bg" />
+    <item type="id" name="set_other_bg" />
+    <item type="id" name="set_about_bg" />
+    <item type="id" name="set_server_iv" />
+    <item type="id" name="set_speed_iv" />
+    <item type="id" name="set_vod_iv" />
+    <item type="id" name="set_weather_iv" />
+    <item type="id" name="set_user_iv" />
+    <item type="id" name="set_clear_iv" />
+    <item type="id" name="set_other_iv" />
+    <item type="id" name="set_about_iv" />
+    <item type="id" name="set_refimg_1" />
+    <item type="id" name="set_refimg_2" />
+    <item type="id" name="set_refimg_3" />
+    <item type="id" name="set_refimg_4" />
+    <item type="id" name="set_sharp" />
+    <item type="id" name="set_sharp_tv" />
+    <item type="id" name="set_sharp_left" />
+    <item type="id" name="set_sharp_right" />
+    <item type="id" name="set_scalor" />
+    <item type="id" name="set_scalor_tv" />
+    <item type="id" name="set_scalor_left" />
+    <item type="id" name="set_scalor_right" />
+    <item type="id" name="set_jump" />
+    <item type="id" name="set_jump_left" />
+    <item type="id" name="set_jump_tv" />
+    <item type="id" name="set_jump_right" />
+    <item type="id" name="set_defined" />
+    <item type="id" name="set_defined_left" />
+    <item type="id" name="set_defined_tv" />
+    <item type="id" name="set_defined_right" />
+    <item type="id" name="set_vod_jump_start_et" />
+    <item type="id" name="set_vod_jump_end_et" />
+    <item type="id" name="set_autolive" />
+    <item type="id" name="set_autolive_tv" />
+    <item type="id" name="set_autolive_left" />
+    <item type="id" name="set_autolive_right" />
+    <item type="id" name="set_lr" />
+    <item type="id" name="set_lr_left" />
+    <item type="id" name="set_lr_tv" />
+    <item type="id" name="set_lr_right" />
+    <item type="id" name="set_ud" />
+    <item type="id" name="set_ud_left" />
+    <item type="id" name="set_ud_tv" />
+    <item type="id" name="set_ud_right" />
+    <item type="id" name="set_renew" />
+    <item type="id" name="set_about_version" />
+    <item type="id" name="app_fl_0" />
+    <item type="id" name="app_bg_0" />
+    <item type="id" name="app_poster_0" />
+    <item type="id" name="app_name_0" />
+    <item type="id" name="app_fl_1" />
+    <item type="id" name="app_bg_1" />
+    <item type="id" name="app_poster_1" />
+    <item type="id" name="app_name_1" />
+    <item type="id" name="app_fl_2" />
+    <item type="id" name="app_bg_2" />
+    <item type="id" name="app_poster_2" />
+    <item type="id" name="app_name_2" />
+    <item type="id" name="app_fl_3" />
+    <item type="id" name="app_bg_3" />
+    <item type="id" name="app_poster_3" />
+    <item type="id" name="app_name_3" />
+    <item type="id" name="app_fl_4" />
+    <item type="id" name="app_bg_4" />
+    <item type="id" name="app_poster_4" />
+    <item type="id" name="app_name_4" />
+    <item type="id" name="app_fl_5" />
+    <item type="id" name="app_bg_5" />
+    <item type="id" name="app_poster_5" />
+    <item type="id" name="app_name_5" />
+    <item type="id" name="app_fl_6" />
+    <item type="id" name="app_bg_6" />
+    <item type="id" name="app_poster_6" />
+    <item type="id" name="app_name_6" />
+    <item type="id" name="app_fl_7" />
+    <item type="id" name="app_bg_7" />
+    <item type="id" name="app_poster_7" />
+    <item type="id" name="app_name_7" />
+    <item type="id" name="app_fl_8" />
+    <item type="id" name="app_bg_8" />
+    <item type="id" name="app_poster_8" />
+    <item type="id" name="app_name_8" />
+    <item type="id" name="app_fl_9" />
+    <item type="id" name="app_bg_9" />
+    <item type="id" name="app_poster_9" />
+    <item type="id" name="app_name_9" />
+    <item type="id" name="app_refimg_0" />
+    <item type="id" name="app_refimg_1" />
+    <item type="id" name="app_refimg_2" />
+    <item type="id" name="app_refimg_3" />
+    <item type="id" name="app_refimg_4" />
+    <item type="id" name="app_move_0" />
+    <item type="id" name="app_move_1" />
+    <item type="id" name="app_move_2" />
+    <item type="id" name="app_move_3" />
+    <item type="id" name="app_move_4" />
+    <item type="id" name="app_move_5" />
+    <item type="id" name="app_move_6" />
+    <item type="id" name="app_move_7" />
+    <item type="id" name="app_move_8" />
+    <item type="id" name="app_move_9" />
+    <item type="id" name="app_move_10" />
+    <item type="id" name="app_move_11" />
+    <item type="id" name="app_icon" />
+    <item type="id" name="new_app" />
+    <item type="id" name="app_name" />
+    <item type="id" name="filter_rank" />
+    <item type="id" name="filter_area" />
+    <item type="id" name="filter_sharp" />
+    <item type="id" name="filter_type" />
+    <item type="id" name="filter_year" />
+    <item type="id" name="filter_sort" />
+    <item type="id" name="filter_list_rank" />
+    <item type="id" name="filter_list_area" />
+    <item type="id" name="filter_list_sharp" />
+    <item type="id" name="filter_list_type" />
+    <item type="id" name="filter_list_year" />
+    <item type="id" name="filter_list_sort" />
+    <item type="id" name="search_keybord_full_space" />
+    <item type="id" name="search_keybord_full_clear" />
+    <item type="id" name="search_keybord_full_EN_CH" />
+    <item type="id" name="search_keybord_full_del" />
+    <item type="id" name="search_keybord_t9_clear" />
+    <item type="id" name="search_keybord_t9_del" />
+    <item type="id" name="search_keybord_input" />
+    <item type="id" name="search_keybord_full_layout" />
+    <item type="id" name="search_keybord_t9_layout" />
+    <item type="id" name="search_keybord_hint" />
+    <item type="id" name="search_keybord_full" />
+    <item type="id" name="search_keybord_t9" />
+    <item type="id" name="search_top_tables" />
+    <item type="id" name="search_hot" />
+    <item type="id" name="search_all" />
+    <item type="id" name="search_film" />
+    <item type="id" name="search_tv" />
+    <item type="id" name="search_art" />
+    <item type="id" name="search_cartoon" />
+    <item type="id" name="search_doc" />
+    <item type="id" name="search_result" />
+    <item type="id" name="search_empty_text" />
+    <item type="id" name="white_boder" />
+    <item type="id" name="apks_fl_0" />
+    <item type="id" name="apks_fl_1" />
+    <item type="id" name="apks_fl_2" />
+    <item type="id" name="apks_fl_3" />
+    <item type="id" name="apks_fl_4" />
+    <item type="id" name="apks_fl_5" />
+    <item type="id" name="apks_fl_6" />
+    <item type="id" name="apks_fl_7" />
+    <item type="id" name="apks_fl_8" />
+    <item type="id" name="apks_fl_9" />
+    <item type="id" name="apks_poster_0" />
+    <item type="id" name="apks_poster_1" />
+    <item type="id" name="apks_poster_2" />
+    <item type="id" name="apks_poster_3" />
+    <item type="id" name="apks_poster_4" />
+    <item type="id" name="apks_poster_5" />
+    <item type="id" name="apks_poster_6" />
+    <item type="id" name="apks_poster_7" />
+    <item type="id" name="apks_poster_8" />
+    <item type="id" name="apks_poster_9" />
+    <item type="id" name="apks_name_0" />
+    <item type="id" name="apks_name_1" />
+    <item type="id" name="apks_name_2" />
+    <item type="id" name="apks_name_3" />
+    <item type="id" name="apks_name_4" />
+    <item type="id" name="apks_name_5" />
+    <item type="id" name="apks_name_6" />
+    <item type="id" name="apks_name_7" />
+    <item type="id" name="apks_name_8" />
+    <item type="id" name="apks_name_9" />
+    <item type="id" name="apks_bg_0" />
+    <item type="id" name="apks_bg_1" />
+    <item type="id" name="apks_bg_2" />
+    <item type="id" name="apks_bg_3" />
+    <item type="id" name="apks_bg_4" />
+    <item type="id" name="apks_bg_5" />
+    <item type="id" name="apks_bg_6" />
+    <item type="id" name="apks_bg_7" />
+    <item type="id" name="apks_bg_8" />
+    <item type="id" name="apks_bg_9" />
+    <item type="id" name="app_choose_pop_name">false</item>
+    <item type="id" name="app_choose_pop_list">false</item>
+    <item type="id" name="app_top">false</item>
+    <item type="id" name="app_boot">false</item>
+    <item type="id" name="app_detail">false</item>
+    <item type="id" name="app_delete">false</item>
+    <item type="id" name="top_app_position_grid">false</item>
+    <item type="id" name="app_grid_new">false</item>
+    <item type="id" name="fatherview">false</item>
+    <item type="id" name="exit_time">false</item>
+    <item type="id" name="exit_notify">false</item>
+    <item type="id" name="exit_exit">false</item>
+    <item type="id" name="exit_continue">false</item>
+    <item type="id" name="favorite_type">false</item>
+    <item type="id" name="fav_choose_mult">false</item>
+    <item type="id" name="fav_choose">false</item>
+    <item type="id" name="fav_choose_all">false</item>
+    <item type="id" name="fav_choose_del">false</item>
+    <item type="id" name="fav_choose_exit">false</item>
+    <item type="id" name="favorite_grid">false</item>
+    <item type="id" name="fav_empty">false</item>
+    <item type="id" name="head_timeline">false</item>
+    <item type="id" name="keyboard_view_number">false</item>
+    <item type="id" name="itv_exit_msg_line1">false</item>
+    <item type="id" name="itv_exit_msg">false</item>
+    <item type="id" name="itv_exit_msg_line2">false</item>
+    <item type="id" name="itv_exit_ok">false</item>
+    <item type="id" name="itv_exit_confirm_tv">false</item>
+    <item type="id" name="itv_exit_cancle">false</item>
+    <item type="id" name="itv_exit_cancle_tv">false</item>
+    <item type="id" name="loading_img">false</item>
+    <item type="id" name="loading_tv">false</item>
+    <item type="id" name="itv_toast_img">false</item>
+    <item type="id" name="itv_toast_text">false</item>
+    <item type="id" name="update_dialog_title">false</item>
+    <item type="id" name="update_dialog_proline">false</item>
+    <item type="id" name="update_dialog_msgline">false</item>
+    <item type="id" name="update_dialog_msg">false</item>
+    <item type="id" name="update_dialog_btnline">false</item>
+    <item type="id" name="update_dialog_comfire">false</item>
+    <item type="id" name="update_dialog_cancle">false</item>
+    <item type="id" name="update_dialog_forgive">false</item>
+    <item type="id" name="is_notify_update_dialog">false</item>
+    <item type="id" name="not_update_apk">false</item>
+    <item type="id" name="changetype_left">false</item>
+    <item type="id" name="changetype_right">false</item>
+    <item type="id" name="channellist_epgs">false</item>
+    <item type="id" name="channlelist_curr_epg">false</item>
+    <item type="id" name="channlelist_next_epg">false</item>
+    <item type="id" name="live_error_dialog_txt">false</item>
+    <item type="id" name="xllx_ctr_videoName">false</item>
+    <item type="id" name="xllx_ctr_current_time">false</item>
+    <item type="id" name="xllx_ctr_seekbar">false</item>
+    <item type="id" name="xllx_ctr_duration">false</item>
+    <item type="id" name="xllx_ctr_rewind">false</item>
+    <item type="id" name="xllx_ctr_play_pause">false</item>
+    <item type="id" name="xllx_ctr_forward">false</item>
+    <item type="id" name="xllx_ctr_sharpness_iv">false</item>
+    <item type="id" name="xllx_ctr_sharpness_choose">false</item>
+    <item type="id" name="xllx_ctr_tiptime_txt">false</item>
+    <item type="id" name="lixian_item_space">false</item>
+    <item type="id" name="lixian_videolist_item_filetype">false</item>
+    <item type="id" name="lixian_videolist_item_filename">false</item>
+    <item type="id" name="lixian_videolist_item_translate">false</item>
+    <item type="id" name="lixian_videolist_item_duration">false</item>
+    <item type="id" name="lixian_userinfo_layout">false</item>
+    <item type="id" name="lixian_userinfo_nickname">false</item>
+    <item type="id" name="lixian_userinfo_usrname">false</item>
+    <item type="id" name="lixian_userinfo_level">false</item>
+    <item type="id" name="lixian_userinfo_expiredate">false</item>
+    <item type="id" name="lixian_login_layout">false</item>
+    <item type="id" name="lixian_login_username_autotxt">false</item>
+    <item type="id" name="lixian_login_password_autotxt">false</item>
+    <item type="id" name="lixian_login_proving_layout">false</item>
+    <item type="id" name="lixian_login_proving_img">false</item>
+    <item type="id" name="lixian_login_proving_et">false</item>
+    <item type="id" name="lixian_getuserinfo_retry_btn">false</item>
+    <item type="id" name="lixian_login_logout_btn">false</item>
+    <item type="id" name="lixian_video_list">false</item>
+    <item type="id" name="lixian_getvideolist_retry_btn">false</item>
+    <item type="id" name="lixian_videolist_empty_txt">false</item>
+    <item type="id" name="linearLayout1">false</item>
+    <item type="id" name="top_system_time">false</item>
+    <item type="id" name="top_net_type">false</item>
+    <item type="id" name="top_weather_city">false</item>
+    <item type="id" name="top_weather_log1">false</item>
+    <item type="id" name="top_weather_log2">false</item>
+    <item type="id" name="top_weather_info">false</item>
+    <item type="id" name="news_video_black">false</item>
+    <item type="id" name="play_collect_tv_text_count">false</item>
+    <item type="id" name="zhui_deliver">false</item>
+    <item type="id" name="my_zhui">false</item>
+    <item type="id" name="play_collect_tv_text_tvname">false</item>
+    <item type="id" name="play_collect_collected_count">false</item>
+    <item type="id" name="play_history_name">false</item>
+    <item type="id" name="play_history_recode">false</item>
+    <item type="id" name="player_choose_text">false</item>
+    <item type="id" name="player_choose_art_list">false</item>
+    <item type="id" name="player_choose_table">false</item>
+    <item type="id" name="player_choose_tv">false</item>
+    <item type="id" name="player_choose_art">false</item>
+    <item type="id" name="player_choose_tv_gridView">false</item>
+    <item type="id" name="player_top_ctr">false</item>
+    <item type="id" name="player_bot_ctr">false</item>
+    <item type="id" name="menu_voice_1">false</item>
+    <item type="id" name="menu_voice_2">false</item>
+    <item type="id" name="menu_voice_3">false</item>
+    <item type="id" name="menu_voice_4">false</item>
+    <item type="id" name="menu_voice_5">false</item>
+    <item type="id" name="menu_voice_6">false</item>
+    <item type="id" name="menu_voice_7">false</item>
+    <item type="id" name="menu_voice_8">false</item>
+    <item type="id" name="menu_voice_9">false</item>
+    <item type="id" name="menu_voice_10">false</item>
+    <item type="id" name="pop_list">false</item>
+    <item type="id" name="exit_play">false</item>
+    <item type="id" name="tv_love_vod">false</item>
+    <item type="id" name="hs_recommend_view">false</item>
+    <item type="id" name="video_recommend_parent">false</item>
+    <item type="id" name="iv_remd_poster">false</item>
+    <item type="id" name="iv_remd_name">false</item>
+    <item type="id" name="set_check_update">false</item>
+    <item type="id" name="jump_dialog_ok">false</item>
+    <item type="id" name="jump_dialog_cancle">false</item>
+    <item type="id" name="setting_clear_pic_hint">false</item>
+    <item type="id" name="setting_clear_pic_btn">false</item>
+    <item type="id" name="setting_clear_colection_hint">false</item>
+    <item type="id" name="setting_clear_colection_btn">false</item>
+    <item type="id" name="setting_clear_cache_hint">false</item>
+    <item type="id" name="setting_clear_cache_btn">false</item>
+    <item type="id" name="setting_clear_channel_tv">false</item>
+    <item type="id" name="setting_clear_channed_btn">false</item>
+    <item type="id" name="setting_clear_app_tv">false</item>
+    <item type="id" name="setting_clear_topapp_btn">false</item>
+    <item type="id" name="setting_clear_all_btn">false</item>
+    <item type="id" name="setting_login_username">false</item>
+    <item type="id" name="setting_login_users">false</item>
+    <item type="id" name="setting_login_password">false</item>
+    <item type="id" name="setting_login_remember">false</item>
+    <item type="id" name="relaCode">false</item>
+    <item type="id" name="textView1">false</item>
+    <item type="id" name="frameImage">false</item>
+    <item type="id" name="setting_login_passCode">false</item>
+    <item type="id" name="setting_login_code">false</item>
+    <item type="id" name="rbCookieData">false</item>
+    <item type="id" name="rbSevenDay">false</item>
+    <item type="id" name="rbOneDay">false</item>
+    <item type="id" name="rbMounth">false</item>
+    <item type="id" name="setting_login_login">false</item>
+    <item type="id" name="setting_login_regest">false</item>
+    <item type="id" name="set_name1">false</item>
+    <item type="id" name="set_name2">false</item>
+    <item type="id" name="set_net_set">false</item>
+    <item type="id" name="set_server_set">false</item>
+    <item type="id" name="set_weather">false</item>
+    <item type="id" name="set_channel">false</item>
+    <item type="id" name="set_play">false</item>
+    <item type="id" name="set_login_regest">false</item>
+    <item type="id" name="set_regest">false</item>
+    <item type="id" name="set_clearcache">false</item>
+    <item type="id" name="set_speed">false</item>
+    <item type="id" name="set_develop">false</item>
+    <item type="id" name="set_item_log">false</item>
+    <item type="id" name="mylin">false</item>
+    <item type="id" name="net_adv_wifi_state">false</item>
+    <item type="id" name="setting_channel_play_sound">false</item>
+    <item type="id" name="set_renew_tv">false</item>
+    <item type="id" name="setting_regest_username">false</item>
+    <item type="id" name="setting_regest_check_name">false</item>
+    <item type="id" name="setting_regest_email">false</item>
+    <item type="id" name="setting_regest_check_email">false</item>
+    <item type="id" name="setting_regest_password1">false</item>
+    <item type="id" name="setting_regest_password2">false</item>
+    <item type="id" name="setting_regest_check_pwd">false</item>
+    <item type="id" name="setting_regest_phone">false</item>
+    <item type="id" name="setting_regest_btn">false</item>
+    <item type="id" name="server_server1">false</item>
+    <item type="id" name="set_choose_log1">false</item>
+    <item type="id" name="set_item_main">false</item>
+    <item type="id" name="set_item_status1">false</item>
+    <item type="id" name="server_server2">false</item>
+    <item type="id" name="set_choose_log2">false</item>
+    <item type="id" name="set_item_wcdma">false</item>
+    <item type="id" name="set_item_status2">false</item>
+    <item type="id" name="server_server3">false</item>
+    <item type="id" name="set_choose_log3">false</item>
+    <item type="id" name="set_item_hk">false</item>
+    <item type="id" name="set_item_status3">false</item>
+    <item type="id" name="server_reserver">false</item>
+    <item type="id" name="set_choose_log4">false</item>
+    <item type="id" name="set_item_unin">false</item>
+    <item type="id" name="set_item_status4">false</item>
+    <item type="id" name="setting_speed_source">false</item>
+    <item type="id" name="down_pb1">false</item>
+    <item type="id" name="tv1">false</item>
+    <item type="id" name="down_pb2">false</item>
+    <item type="id" name="tv2">false</item>
+    <item type="id" name="down_pb3">false</item>
+    <item type="id" name="tv3">false</item>
+    <item type="id" name="down_pb4">false</item>
+    <item type="id" name="tv4">false</item>
+    <item type="id" name="bottomtv">false</item>
+    <item type="id" name="ssim1">false</item>
+    <item type="id" name="ssim2">false</item>
+    <item type="id" name="ssim3">false</item>
+    <item type="id" name="ssim4">false</item>
+    <item type="id" name="setting_weather_provice">false</item>
+    <item type="id" name="setting_weather_city">false</item>
+    <item type="id" name="citytext">false</item>
+    <item type="id" name="timetext">false</item>
+    <item type="id" name="weather_set_infoimage1">false</item>
+    <item type="id" name="weather_set_infoimage2">false</item>
+    <item type="id" name="weatherytext">false</item>
+    <item type="id" name="temptext">false</item>
+    <item type="id" name="srt_set_item_gou">false</item>
+    <item type="id" name="srt_set_item_name">false</item>
+    <item type="id" name="subject_backGroud_iv">false</item>
+    <item type="id" name="tv_back_channel_item_text">false</item>
+    <item type="id" name="tv_back_time">false</item>
+    <item type="id" name="tv_back_name">false</item>
+    <item type="id" name="tv_back_log">false</item>
+    <item type="id" name="type_details_type">false</item>
+    <item type="id" name="tv_back_channles">false</item>
+    <item type="id" name="tv_back_videos">false</item>
+    <item type="id" name="tv_back_current_channel">false</item>
+    <item type="id" name="tv_back_current_tv">false</item>
+    <item type="id" name="tv_back_next_tv">false</item>
+    <item type="id" name="tv_back_weekdays">false</item>
+    <item type="id" name="tv_back_rd_Sunday">false</item>
+    <item type="id" name="tv_back_rd_Monday">false</item>
+    <item type="id" name="tv_back_rd_Tuesday">false</item>
+    <item type="id" name="tv_back_rd_Wednesday">false</item>
+    <item type="id" name="tv_back_rd_Thursday">false</item>
+    <item type="id" name="tv_back_rd_Friday">false</item>
+    <item type="id" name="tv_back_rd_Saturday">false</item>
+    <item type="id" name="back_video_blck">false</item>
+    <item type="id" name="tv_back_video">false</item>
+    <item type="id" name="type_details">false</item>
+    <item type="id" name="type_details_sum">false</item>
+    <item type="id" name="type_details_menuHint_ll">false</item>
+    <item type="id" name="type_details_fliter_type">false</item>
+    <item type="id" name="detail_menu_key">false</item>
+    <item type="id" name="type_details_grid">false</item>
+    <item type="id" name="white_border">false</item>
+    <item type="id" name="type_details_menulayout">false</item>
+    <item type="id" name="filter_name">false</item>
+    <item type="id" name="filter_gou">false</item>
+    <item type="id" name="video_poster">false</item>
+    <item type="id" name="video_superHD">false</item>
+    <item type="id" name="video_gou">false</item>
+    <item type="id" name="video_banben">false</item>
+    <item type="id" name="video_name">false</item>
+    <item type="id" name="sunmenu_text">false</item>
+    <item type="id" name="details_poster_shadow">false</item>
+    <item type="id" name="details_poster">false</item>
+    <item type="id" name="details_name">false</item>
+    <item type="id" name="details_year">false</item>
+    <item type="id" name="details_sharpness">false</item>
+    <item type="id" name="details_rate">false</item>
+    <item type="id" name="details_director">false</item>
+    <item type="id" name="details_update">false</item>
+    <item type="id" name="details_actors">false</item>
+    <item type="id" name="details_playTimes">false</item>
+    <item type="id" name="details_video_introduce">false</item>
+    <item type="id" name="video_details_resources">false</item>
+    <item type="id" name="details_replay">false</item>
+    <item type="id" name="details_play">false</item>
+    <item type="id" name="details_choose">false</item>
+    <item type="id" name="details_colection">false</item>
+    <item type="id" name="details_recommend">false</item>
+    <item type="id" name="details_key_tv">false</item>
+    <item type="id" name="details_key_arts">false</item>
+    <item type="id" name="details_key_list">false</item>
+    <item type="id" name="details_key_grid">false</item>
+    <item type="id" name="text">false</item>
+    <item type="id" name="details_key_pager">false</item>
+    <item type="id" name="details_key_gallery">false</item>
+    <item type="id" name="recommend_grid">false</item>
+    <item type="id" name="details_recommend_poster">false</item>
+    <item type="id" name="details_recommend_name">false</item>
+    <item type="id" name="details_recommend_ref">false</item>
+    <item type="id" name="vod_error_dialog_btn">false</item>
+    <item type="id" name="vod_play_video_name">false</item>
+    <item type="id" name="vod_play_source">false</item>
+    <item type="id" name="vod_play_scale">false</item>
+    <item type="id" name="vod_play_sharp">false</item>
+    <item type="id" name="vod_play_speed">false</item>
+    <item type="id" name="vod_player_videoView">false</item>
+    <item type="id" name="vod_player_srt_tv">false</item>
+    <item type="id" name="vod_player_top_view">false</item>
+    <item type="id" name="vod_toast">false</item>
+    <item type="id" name="play_vod_logo">false</item>
+    <item type="id" name="vod_progressbar">false</item>
+    <item type="id" name="vod_seek_new_seekbar">false</item>
+    <item type="id" name="vod_seek_new_curr">false</item>
+    <item type="id" name="vod_seek_new_dura">false</item>
+    <item type="id" name="play_bottom_tip_time">false</item>
+    <item type="id" name="pre_top">false</item>
+    <item type="id" name="weather_spinner_tv">false</item>
+    <item type="id" name="xllx_videoview">false</item>
+    <item type="id" name="xllx_srt_tv">false</item>
+</resources>
